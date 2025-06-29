@@ -1,0 +1,10 @@
+opencv-python==4.8.1.78
+dlib==19.24.2
+imutils==0.5.4
+scipy==1.11.4
+pygame==2.5.2
+streamlit==1.29.0
+pandas==2.1.4
+plotly==5.17.0
+numpy==1.24.4
+Pillow==10.1.0

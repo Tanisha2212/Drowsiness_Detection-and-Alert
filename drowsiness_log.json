@@ -1,0 +1,56 @@
+[
+  {
+    "session_id": "2025-06-29T23:30:30.772875",
+    "duration_seconds": 2.944509,
+    "total_frames": 0,
+    "drowsy_frames": 0,
+    "drowsy_events": 0,
+    "drowsiness_percentage": 0.0,
+    "events": [],
+    "ear_stats": {
+      "mean": 0,
+      "min": 0,
+      "max": 0
+    }
+  },
+  {
+    "session_id": "2025-06-29T23:54:01.314757",
+    "duration_seconds": 111.004053,
+    "total_frames": 1506,
+    "drowsy_frames": 174,
+    "drowsy_events": 1,
+    "drowsiness_percentage": 11.553784860557768,
+    "events": [
+      {
+        "timestamp": "2025-06-29T23:54:07.905803",
+        "ear_value": 0.16871543596953284,
+        "session_duration": 6.591062
+      }
+    ],
+    "ear_stats": {
+      "mean": 0.3167384166934074,
+      "min": 0.1201923076923077,
+      "max": 0.48405069839350306
+    }
+  },
+  {
+    "session_id": "2025-06-30T00:02:36.101440",
+    "duration_seconds": 12.724701,
+    "total_frames": 139,
+    "drowsy_frames": 49,
+    "drowsy_events": 1,
+    "drowsiness_percentage": 35.25179856115108,
+    "events": [
+      {
+        "timestamp": "2025-06-30T00:02:45.906577",
+        "ear_value": 0.21360709135019285,
+        "session_duration": 9.805155
+      }
+    ],
+    "ear_stats": {
+      "mean": 0.29665065780458616,
+      "min": 0.14342386421710956,
+      "max": 0.4455176499963456
+    }
+  }
+]
