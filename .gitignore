@@ -1,0 +1,16 @@
+echo "# Python
+myenv/
+venv/
+*.pyc
+__pycache__/
+
+# Large data files
+models/
+*.dat
+*.so
+*.dylib
+
+# IDE
+.vscode/
+.idea/
+.DS_Store" > .gitignore
